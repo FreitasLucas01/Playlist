@@ -1,4 +1,4 @@
-<p align="center"><img align="center" src="./assets/fone_grande.png"> <br> <br> <br> <br></p>
+<p align="center"><img align="center" src="./assets/fone_grande.png"> <br> <br> <br></p>
 
 <h1 align="center"> Playlist </h1>
 
