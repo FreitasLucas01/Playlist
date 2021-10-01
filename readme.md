@@ -28,7 +28,7 @@
  - [x] Botões de controle totalmente funcionais</br>
  - [x] Mudança de cor e fundo ao passar de faixa</br>
  - [x] Design simples e moderno <br>
- - [x] Imagens e cores correspondentes  <br> <br>
+ - [x] Imagens e cores correspondentes as faixas musicais <br> <br>
 
 
 <h2 id="tec"> 🚀 Tecnologias </h2>
