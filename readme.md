@@ -42,7 +42,7 @@
 
 <h2 id="projeto"> 💻 Projeto </h2>
 
-<p>Player de música criado com HTML, CSS e Javascript com intuito de treinar as tecnologias citadas. <br> É possível realizar as seguintes ações: retroceder faixa, iniciar faixa do início, iniciar e pausar, avançar 5 segundos, avançar para próxima faixa, aumentar e dimunir volume e silenciar a música. <br> O controle de volume não funciona em aparelhos com IOS, apenas a função de silenciar a música ao apertar no ícone de som, isso ocorre de acordo com uma limitação do sistema.<br> Site feito em monitor com resolução Quad HD (2560x1440).</p> 
+<p>Player de música criado com HTML, CSS e Javascript com intuito de treinar as tecnologias citadas. <br> É possível realizar as seguintes ações: retroceder faixa, iniciar faixa do início, iniciar e pausar, avançar 5 segundos, avançar para próxima faixa, aumentar e dimunir volume e silenciar a música. <br> O controle de volume não funciona em aparelhos com IOS, apenas a função de silenciar a música ao apertar no ícone de som, isso ocorre devido a uma limitação do sistema IOS.<br> Site feito em monitor com resolução Quad HD (2560x1440).</p> 
 <hr>
 <br>
 <p> Criado por Lucas Freitas 🖖🏽| <a href="https://www.linkedin.com/in/lucasfreitas01/"> Faça contato comigo </a> <p> 
