@@ -127,7 +127,7 @@ function next(){
 }
 
 function backwards(){
-    audio.currentTime = 0;
+    audio.currentTime -= 5;
 }
 
 function forward (){
